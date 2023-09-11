@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-09-08T23:45:03.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o9_mAIYneHcoJUWqwn2t" version="21.7.2" type="device">
+  <diagram name="Page-1" id="1OqTOC81FNi64Lq26u4-">
+    <mxGraphModel dx="1205" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-1" value="All Observations&lt;br&gt;N = {All}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="170" as="sourcePoint" />
+            <mxPoint x="384.5" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="170" as="sourcePoint" />
+            <mxPoint x="210" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="570" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-6" value="4 Cyl&lt;br&gt;n = {AA}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-8" value="6 Cyl&lt;br&gt;n = {BB}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gf5Ety0jTJO6T_87kzxX-10" value="8 Cyl&lt;br&gt;n = {CC}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
